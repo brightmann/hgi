@@ -20,7 +20,7 @@ title: "Joe's Blog"
 title_separator: "-"
 name: "hijiangtao"
 description: "All I'm saying is inside, I had the element of surprise."
-url: "https://hijiangtao.github.io" # the base hostname & protocol for your site e.g.
+url: "https://hgi.luckypoem.workers.dev" # the base hostname & protocol for your site e.g.
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "hijiangtao/hijiangtao.github.io"
 teaser: # "/images/bio-photo.jpg"
